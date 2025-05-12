@@ -8,7 +8,7 @@ A curated list of **awesome apps, websites, and tools for learning music theory*
 
 ## Table of Contents
 
-- [RhythmDictation.com – Rhythm Dictation Reinvented](#featured-rhythmdictationcom--rhythm-dictation-reinvented)
+- [RhythmDictation.com – Rhythm Dictation Reinvented](https://rhythmdictation.com)
 - [For Beginners](#for-beginners)
 - [For Advanced Musicians](#for-advanced-musicians)
 - [For Music Educators](#for-music-educators)
