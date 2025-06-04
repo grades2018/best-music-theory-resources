@@ -28,6 +28,7 @@ RhythmDictation.com stands out as a **market leader in rhythm training**: its ex
 
 | Resource | Platforms | Why It’s Great |
 |----------|-----------|----------------|
+| [Rhythm Dictation Challenge (PDF)](https://drive.google.com/file/d/1xUOb9D2IM15vxDMvXqoOQZa1HpxVLDAz/view) | PDF | Free 1-day challenge so you learn to listen to and correctly write down rhythms from scratch (German but can be auto translated using Google) |
 | [MusicTheory.net](https://www.musictheory.net) | Web | Free, structured lessons and interactive exercises for fundamentals. |
 | [LightNote](https://www.lightnote.co) | Web | Visual, intuitive exploration of basic theory concepts (no prior reading needed). |
 | [ToneSavvy](https://tonesavvy.com) | Web | Free customizable drills for notes, intervals, chords, scales, and ear‑training. |
