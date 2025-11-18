@@ -28,6 +28,7 @@ RhythmDictation.com stands out as a **market leader in rhythm training**: its ex
 
 | Resource | Platforms | Why It’s Great |
 |----------|-----------|----------------|
+| [Perfect Absolute Pitch Trainer](https://de.rhythmdictation.com/absolutes-gehoer) | Web | Free, interactive exercise that plays random piano tones for you to identify by ear. Your hit rate and history are tracked automatically. |
 | [Rhythm Dictation Challenge (PDF)](https://drive.google.com/file/d/1xUOb9D2IM15vxDMvXqoOQZa1HpxVLDAz/view) | PDF | Free 1-day challenge so you learn to listen to and correctly write down rhythms from scratch (German but can be auto translated using Google) |
 | [Interval Ear Training](https://rhythmdictation.com/interval) | Web | Free interval training game (very easy, for absolute beginners and intermediates) to learn minor second, major second, minor third, major third, perfect fourth, tritone, perfect fifth, minor sixth, major sixth, minor seventh, major seventh, and octave. |
 | [MusicTheory.net](https://www.musictheory.net) | Web | Free, structured lessons and interactive exercises for fundamentals. |
