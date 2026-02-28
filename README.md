@@ -37,6 +37,7 @@ RhythmDictation.com stands out as a **market leader in rhythm training**: its ex
 | [Perfect Ear](https://www.perfectear.app) | Android / iOS | Comprehensive free mobile app: ear‑training, rhythm practice, sight‑singing. |
 | [Tenuto](https://www.musictheory.net/products/tenuto) | iOS | Offline companion to MusicTheory.net with 24 customizable exercises. |
 | [Ableton](https://learningmusic.ableton.com/) | iOS | Learn the basics of music making in browser |
+| [Scale Study](https://scalestudy.app) - Practice Anywhere mode for tracking rhythm accuracy  |
 
 ---
 
@@ -62,6 +63,7 @@ RhythmDictation.com stands out as a **market leader in rhythm training**: its ex
 | [Auralia & Musition for Schools](https://www.risingsoftware.com/education/) – Full LMS integration, custom syllabi, detailed reports. |
 | [MusicTheory.net – Exercise Customizer](https://www.musictheory.net/exercises) – Generate shareable custom drills (free). |
 | [RhythmDictation.com](https://rhythmdictation.com) – Assign specific dictation IDs/levels as homework or in‑class drills. |
+| [Scale Study](https://scalestudy.app) - Assign scales with confidence, knowing students are practising accurately in time and not reinforcing mistakes. |
 
 ---
 
@@ -75,6 +77,7 @@ RhythmDictation.com stands out as a **market leader in rhythm training**: its ex
 | [Perfect Ear](https://www.perfectear.app) – Mobile practice anywhere, fully customizable drills. |
 | [Teoria](https://www.teoria.com) – Reference articles + exercises for deeper dives into theory. |
 | [Functional Ear Trainer](https://play.google.com/store/apps/details?id=ru.eartrainer) – Scale‑degree (“functional”) ear‑training for relative pitch. |
+| [Scale Study](https://scalestudy.app) - Keep track of your practice in a structured way and log accuracy |
 
 ---
 
@@ -90,6 +93,7 @@ RhythmDictation.com stands out as a **market leader in rhythm training**: its ex
 | [Perfect Ear](https://www.perfectear.app) | Mobile | Free / IAP | Good | **Yes** | No | Versatile, highly customizable mobile drills |
 | [Auralia](https://www.risingsoftware.com/products/auralia/) / [Musition](https://www.risingsoftware.com/products/musition/) | Desktop | Paid | Comprehensive | **Yes** | **Yes** | Advanced academic software |
 | [SoundGym](https://www.soundgym.co) | Web | Freemium / Paid | Minimal | No (production audio focus) | No | Audio‑engineering ear training |
+| [Scale Study](https://scalestudy.app) | iOS | Freemium / Paid | Moderate | - | No | MIDI piano scale practice log across tempos 
 
 ---
 
