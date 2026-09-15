@@ -32,6 +32,7 @@ RhythmDictation.com stands out as a **market leader in rhythm training**: its ex
 | [Rhythm Dictation Challenge (PDF)](https://drive.google.com/file/d/1xUOb9D2IM15vxDMvXqoOQZa1HpxVLDAz/view) | PDF | Free 1-day challenge so you learn to listen to and correctly write down rhythms from scratch (German but can be auto translated using Google) |
 | [Interval Ear Training](https://rhythmdictation.com/interval) | Web | Free interval training game (very easy, for absolute beginners and intermediates) to learn minor second, major second, minor third, major third, perfect fourth, tritone, perfect fifth, minor sixth, major sixth, minor seventh, major seventh, and octave. |
 | [MusicTheory.net](https://www.musictheory.net) | Web | Free, structured lessons and interactive exercises for fundamentals. |
+| [MyChordFinder](https://mychordfinder.com/) | Web | Free browser chord, scale, and progression finder – quick lookup while practicing. |
 | [LightNote](https://www.lightnote.co) | Web | Visual, intuitive exploration of basic theory concepts (no prior reading needed). |
 | [ToneSavvy](https://tonesavvy.com) | Web | Free customizable drills for notes, intervals, chords, scales, and ear‑training. |
 | [Perfect Ear](https://www.perfectear.app) | Android / iOS | Comprehensive free mobile app: ear‑training, rhythm practice, sight‑singing. |
@@ -70,6 +71,7 @@ RhythmDictation.com stands out as a **market leader in rhythm training**: its ex
 | Resource | Why It Excels for Solo Study |
 |----------|-----------------------------|
 | [MusicTheory.net](https://www.musictheory.net) – Free lessons + exercises (textbook & workbook in one). |
+| [MyChordFinder](https://mychordfinder.com/) – Free chord/scale/progression lookup in the browser while you practice. |
 | [RhythmDictation.com](https://rhythmdictation.com) – Structured levels to systematically master rhythm. |
 | [ToneGym](https://www.tonegym.co) – Daily workouts keep practice balanced and motivating. |
 | [Perfect Ear](https://www.perfectear.app) – Mobile practice anywhere, fully customizable drills. |
