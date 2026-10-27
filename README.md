@@ -75,6 +75,7 @@ RhythmDictation.com stands out as a **market leader in rhythm training**: its ex
 | [Perfect Ear](https://www.perfectear.app) – Mobile practice anywhere, fully customizable drills. |
 | [Teoria](https://www.teoria.com) – Reference articles + exercises for deeper dives into theory. |
 | [Functional Ear Trainer](https://play.google.com/store/apps/details?id=ru.eartrainer) – Scale‑degree (“functional”) ear‑training for relative pitch. |
+| [EQ Ear Training Game](https://theaudiostuff.com/tools/ear-training/) – Free browser drills for recognising frequencies and pitch differences by ear (tones from 20 Hz to 20 kHz), with score tracking; useful for producers and engineers training their ears. |
 
 ---
 
