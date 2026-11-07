@@ -75,6 +75,7 @@ RhythmDictation.com stands out as a **market leader in rhythm training**: its ex
 | [Perfect Ear](https://www.perfectear.app) – Mobile practice anywhere, fully customizable drills. |
 | [Teoria](https://www.teoria.com) – Reference articles + exercises for deeper dives into theory. |
 | [Functional Ear Trainer](https://play.google.com/store/apps/details?id=ru.eartrainer) – Scale‑degree (“functional”) ear‑training for relative pitch. |
+| [The Common Tone — The Sound and the Theory](https://www.thecommontone.com/book/) | Free popular-music theory textbook published weekly, with chapter-based drills, quizzes and interactive browser tools. No account required. |
 
 ---
 
